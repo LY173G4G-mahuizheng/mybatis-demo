@@ -1,0 +1,17 @@
+com\mhz\config\XMLMapperBuilder.class
+com\mhz\sqlSession\DefaultSqlSession.class
+com\mhz\io\Resources.class
+com\mhz\sqlSession\DefaultSqlSessionFactory.class
+com\mhz\util\GenericTokenParser.class
+com\mhz\pojo\MappedStatement.class
+com\mhz\config\XMLConfigBuilder.class
+com\mhz\util\ParameterMapping.class
+com\mhz\util\ParameterMappingTokenHandler.class
+com\mhz\sqlSession\SimpleExecutor.class
+com\mhz\sqlSession\Executor.class
+com\mhz\sqlSession\SqlSession.class
+com\mhz\util\TokenHandler.class
+com\mhz\sqlSession\SqlSessionFactoryBuilder.class
+com\mhz\config\BoundSql.class
+com\mhz\pojo\Configuration.class
+com\mhz\sqlSession\SqlSessionFactory.class
